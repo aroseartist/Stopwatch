@@ -1,0 +1,11 @@
+{
+  "name": "JS & React Stopwatch",
+  "version": "1.0.0",
+  "description": "stopwatch app",
+  "main": "react-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lora Rose",
+  "license": "ISC"
+}
